@@ -120,7 +120,10 @@ else:
 ## Sample Input and Output
 ![](linear.png)
 ![](iterative.png)
-![](recursive.png)
+![](recursive.png)![Screenshot from 2023-01-28 19-09-55 (copy)](https://user-images.githubusercontent.com/119401150/215270342-804c6473-cd82-4a59-9b3d-bde29514f240.png)
+ file:///home/sec/Pictures/Screenshots/Screenshot%20from%202023-01-28%2019-10-38.png
+
+file:///home/sec/Pictures/Screenshots/Screenshot%20from%202023-01-28%2019-09-55.png
 
 ## Result!
 
