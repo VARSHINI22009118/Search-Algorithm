@@ -118,12 +118,14 @@ else:
 
 ```
 ## Sample Input and Output
-![](linear.png)
-![](iterative.png)
-![](recursive.png)![Screenshot from 2023-01-28 19-09-55 (copy)](https://user-images.githubusercontent.com/119401150/215270342-804c6473-cd82-4a59-9b3d-bde29514f240.png)
- file:///home/sec/Pictures/Screenshots/Screenshot%20from%202023-01-28%2019-10-38.png
+![](linear.png)![Screenshot from 2023-01-28 19-09-55 (copy)](https://user-images.githubusercontent.com/119401150/215270404-975cc98b-229c-4a05-a6bb-a5139f792b95.png)
+![Screenshot from 2023-01-28 19-10-38](https://user-images.githubusercontent.com/119401150/215270418-4ec50df9-d5de-4a41-a419-393ea25265b0.png)
+![Screenshot from 2023-01-28 19-09-55](https://user-images.githubusercontent.com/119401150/215270433-d68d5ec5-8591-4cb8-a095-c862ca70f021.png)
 
-file:///home/sec/Pictures/Screenshots/Screenshot%20from%202023-01-28%2019-09-55.png
+![](iterative.png)
+![](recursive.png)
+ 
+
 
 ## Result!
 
